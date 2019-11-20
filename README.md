@@ -1,5 +1,5 @@
 # zsh-todotxt
-My zsh configurations wrapping todo.txt how I like
+My zsh configurations wrapping ([todo.txt](https://github.com/todotxt/todo.txt-cli)) how I like. It depends on one [add on](https://github.com/todotxt/todo.txt-cli/wiki/Todo.sh-Add-on-Directory), which is called [lately](https://github.com/todotxt/todo.txt-cli/wiki/Todo.sh-Add-on-Directory#lately-report-of-recently-completed-tasks).
 
 This defines a number of functions/aliases
 
